@@ -1,0 +1,52 @@
+# Gradle
+.gradle
+/build
+.externalNativeBuild
+.cxx
+
+# IntelliJ IDEA / Android Studio
+*.iml
+.idea/
+.idea/caches
+.idea/libraries
+.idea/modules.xml
+.idea/workspace.xml
+.idea/navEditor.xml
+.idea/assetWizardSettings.xml
+
+# macOS
+.DS_Store
+
+# Local configuration
+/local.properties
+local.properties
+
+# Captures and generated files
+/captures
+
+# Log files
+*.log
+
+# Android-specific
+*.apk
+*.ap_
+*.dex
+*.aar
+*.class
+
+# Keystore files
+*.jks
+*.keystore
+
+# Firebase
+google-services.json
+
+# Proguard
+proguard/
+proguard-cache/
+
+# Node/React Native specific
+node_modules/
+npm-debug.log
+yarn-debug.log
+yarn-error.log
